@@ -1,0 +1,12 @@
+.navbar1{
+    height: 100px;
+    background-color: blue;
+    text-align: center;
+    color: red;
+}
+.navbar1 a{
+    color: red;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 600;
+}
