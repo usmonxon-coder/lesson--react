@@ -70,7 +70,7 @@ export default class Section extends Component {
   delete = () => {
     let quti = document.querySelector(".box");
     // let btn = document.querySelector(".btn");
-    if (this.state.products[9]) {
+    // if (this.state.products[9]) {
       quti.remove();
     }
   };
